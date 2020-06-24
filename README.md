@@ -1,5 +1,8 @@
 # exbook
 
+## SSR Firebase hosting
+https://medium.com/likecoin/quick-nuxt-js-ssr-prototyping-with-firebase-cloud-functions-5277553610a8
+
 ## Build Setup
 
 ```bash

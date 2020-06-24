@@ -88,3 +88,10 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Firebase log
+.firebase
+
+# Functions nuxt folder and public folder
+functions/nuxt
+public
